@@ -15,23 +15,23 @@ Filmes Series API is a Node.js application that fetches movie and series data us
 
 Clone the repository:
 
-\`\`\`bash
+```bash
 git clone https://github.com/NeguinDev/filmes-series-api.git
-\`\`\`
+```
 
 Install the dependencies:
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ## Usage
 
 To start the application, run:
 
-\`\`\`bash
+```bash
 npm start
-\`\`\`
+```
 
 ## API Endpoints
 
